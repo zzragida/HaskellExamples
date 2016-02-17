@@ -1,0 +1,2 @@
+# HaskellExamples
+Examples for Haskell
